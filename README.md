@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="85b7b874-b67d-4f53-8819-5f36ba669a7b" src="https://github.com/user-attachments/assets/23e8e543-3e2a-4ce9-a24b-e791c83d78c2" />
+
 # Resumo do Lab - Computação em Nuvem (Azure)
 
 Este repositório reúne os principais conceitos e melhores práticas sobre **Computação em Nuvem** com foco no **Azure**, com base em estudos práticos e laboratórios da DIO.
